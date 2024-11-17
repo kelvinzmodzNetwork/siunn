@@ -1,2 +1,6 @@
 root:kelvinzmodz@@:2029-12-31
-darkpower:darkpower2024S:2029-12-31
+root:258025:2029-12-31
+user:tes5:2029-12-31
+admin:admin123:2029-12-31
+guest:guestpass:2029-12-31
+
